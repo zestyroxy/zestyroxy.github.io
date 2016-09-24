@@ -2,19 +2,19 @@
 
 :hp-tags: [vegan, pumpkin, smoothie, fall, breakfast]
 
-Since fall is here I decided to bake three different pumpkin recipies! Here is the first one: Pumpkin Smoothie Jar.
+Since fall (my favourite season) is here I decided to bake three different pumpkin recipies! Here is the first one: Pumpkin Smoothie Jar. #PumpkinAllTheThings
 
-This is a really easy breakfast to make. It smells so good, it'll make you want to curl up with a good book and a hot cup of coffee by the fire while you slowly enjoy every bite.
+This is an easy and delicious breakfast. It smells so good, it'll make you want to curl up with a good book and a hot cup of coffee by the fire while you slowly enjoy every bite.
 
 image::final_shot_sm.jpg[Pumpkin Jar]
 
 *Pumpkin Smoothie*
 
-The first step to making a pumpkin smoothie jar is to make the smoothie. For this recipe, I used the pumpkin purée that I make myself, but you can definitely use store bought pumpkin purée. Scroll down to view the simple recipe to make your very own pumpkin purée
+The first step to making a pumpkin smoothie jar is to make the smoothie. For this recipe, I used the pumpkin purée that I make myself last night, but you can definitely use store bought pumpkin purée. Scroll down to the end of this post to read how to make your very own pumpkin purée.
 
 image::puree_sm.jpg[Pumpkin Purée]
 
-+++<u>Ingredients</u>+++
++++<u>Smoothie Ingredients</u>+++
 [square]
 * 2 medjool dates
 * 130 g pumpkin purée
@@ -25,8 +25,9 @@ image::puree_sm.jpg[Pumpkin Purée]
 
 +++<u>Instructions</u>+++
 [square]
-. Put all the ingredients in a blender and blend until smoothe.
+. Put all the ingredients in a blender and mix until the consitency is smoothe.
 
++++<u>Smoothie Only Option</u>+++: You can also just drink the smoothie on it's own. I would suggest simply adding a bit more almond milk to thin it out a bit.
 
 *Pumpkin Smoothie Jar*
 
@@ -35,15 +36,15 @@ image::puree_sm.jpg[Pumpkin Purée]
 * pumpkin smoothie
 * 30 g chia seeds
 * 70 g vegan granola of your choice
-* 80 g yogurt of your choice
+* 80 g plain, vanilla, or coconut yogurt
 * 20 g pumpkin seeds
 
 +++<u>Instructions</u>+++
 [square]
-. Arrange in a bowl or jar in an aesthetically pleasing way :)
+. Arrange in a bowl or jar in an aesthetically pleasing way or if you're too hungry just throw it all in there :)
 . Add fruits or other nuts according to your cravings today!
 
-You're done! You can also just drink the smoothie on it's own. I would suggest simply adding a bit more almond milk to thin it out a bit.
+You're done! Now grab a good book and enjoy!
 
 image::jar_top_sm.jpg[Pumpkin Jar top view]
 image::hand_jar_sm.jpg[Pumpkin Jar]
@@ -52,13 +53,15 @@ image::hand_jar_sm.jpg[Pumpkin Jar]
 
 *Pumpkin Purée*
 
-You can either buy pumpkin purée in a can or make your own. I prefer to make my own, it's pretty simple, all you need is a small pumpkin. Pro tip: make it the night before you want to make your favourite pumpkin recipe.
+I prefer to make my own pumpkin purée when pumpkin are in season. It just tastes so good and I know the only ingredient is, well pumpkin. 
+
+Go to the store and get yourself a pumpkin. Pro tip: make it the night before you want to make your favourite pumpkin recipe.
 
 image::pumpkin_slices_sm.jpg[Pumpkin Slices]
 
 +++<u>Ingredients</u>+++
 [square]
-* 1 small pumpkin
+* 1 small pumpkin - will make about 600 g of purée
 
 +++<u>Instructions</u>+++
 [square]
@@ -70,5 +73,6 @@ image::pumpkin_slices_sm.jpg[Pumpkin Slices]
 . Once ready, take out of the even and let it cool.
 . After it has cooled down, use you hands to peel the outer skin off the pulp.
 . Put the pulp into a food processor and purée (or mash with a for or potato masher).
+
 
 Voilà! Keep your purée in the fridge for up to a week or freeze some for later use.
