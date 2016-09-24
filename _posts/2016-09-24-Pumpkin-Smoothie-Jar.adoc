@@ -6,13 +6,13 @@ Since fall is here I decided to bake three different pumpkin recipies! Here is t
 
 This is a really easy breakfast to make. It smells so good, it'll make you want to curl up with a good book and a hot cup of coffee by the fire while you slowly enjoy every bite.
 
-image::final_shot.jpg[Pumpkin Jar]
+image::final_shot_sm.jpg[Pumpkin Jar]
 
 *Pumpkin Smoothie*
 
 The first step to making a pumpkin smoothie jar is to make the smoothie. For this recipe, I used the pumpkin purée that I make myself, but you can definitely use store bought pumpkin purée. Scroll down to view the simple recipe to make your very own pumpkin purée
 
-image::puree.jpg[Pumpkin Purée]
+image::puree_sm.jpg[Pumpkin Purée]
 
 +++<u>Ingredients</u>+++
 [square]
@@ -45,8 +45,8 @@ image::puree.jpg[Pumpkin Purée]
 
 You're done! You can also just drink the smoothie on it's own. I would suggest simply adding a bit more almond milk to thin it out a bit.
 
-image::jar_top.jpg[Pumpkin Jar top view]
-image::hand_jar.jpg[Pumpkin Jar]
+image::jar_top_sm.jpg[Pumpkin Jar top view]
+image::hand_jar_sm.jpg[Pumpkin Jar]
 
 ---
 
@@ -54,7 +54,7 @@ image::hand_jar.jpg[Pumpkin Jar]
 
 You can either buy pumpkin purée in a can or make your own. I prefer to make my own, it's pretty simple, all you need is a small pumpkin. Pro tip: make it the night before you want to make your favourite pumpkin recipe.
 
-image::pumpkin_slices.jpg[Pumpkin Slices]
+image::pumpkin_slices_sm.jpg[Pumpkin Slices]
 
 +++<u>Ingredients</u>+++
 [square]
