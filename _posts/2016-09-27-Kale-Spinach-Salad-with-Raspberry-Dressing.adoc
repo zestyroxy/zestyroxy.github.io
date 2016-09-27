@@ -30,7 +30,7 @@ image::raspberry_dressing.jpg[Raspberry Dressing]
 
 *Kale & Spinach Salad*
 
-+++<u>Ingredients</u>+++
++++<u>Salad Ingredients</u>+++
 [square]
 * 2 large kale leaves
 * 2 handfuls of spinach
