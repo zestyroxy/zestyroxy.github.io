@@ -21,7 +21,7 @@ image::salad_closeup2.jpg[Raspberry Dressing]
 +++<u>Instructions</u>+++
 [square]
 . To start, you will want to thaw your raspberries about an hour in advance if you will be using frozen raspberries.
-. Put all the ingredients in a blender or food processor and mix until the consitency is smoothe.
+. Put all the ingredients in a blender or food processor and mix until the consitency is smooth.
 
 image::raspberry_dressing.jpg[Raspberry Dressing]
 
