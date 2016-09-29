@@ -1,5 +1,5 @@
 = Kale & Spinach Salad with Raspberry Dressing
-:hp-image [salad_closeup2.jpg]
+:hp-image: [salad_closeup2.jpg]
 
 :hp-tags: [vegan, salad, kale, spinach, raspberry]
 
