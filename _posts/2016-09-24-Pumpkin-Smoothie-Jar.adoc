@@ -1,4 +1,5 @@
 = Pumpkin Smoothie Jar
+:hp-image: final_shot_sm.jpg
 
 :hp-tags: [vegan, pumpkin, smoothie, fall, breakfast]
 
