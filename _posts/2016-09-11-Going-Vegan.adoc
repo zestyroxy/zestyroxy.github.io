@@ -1,5 +1,5 @@
 = Going Vegan!
-:hp-image: logo.png
+:hp-image: zestyroxy_sm.jpg
 
 :hp-tags: [vegan, vegepreferian, vegetarian]
 
