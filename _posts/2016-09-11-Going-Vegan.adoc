@@ -1,4 +1,5 @@
 = Going Vegan!
+:hp-image: logo.png
 
 :hp-tags: [vegan, vegepreferian, vegetarian]
 
