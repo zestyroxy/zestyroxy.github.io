@@ -25,7 +25,6 @@ image::almondbutter.jpg[Granola Bowl]
 image::oats.jpg[Add Oats]
 image::mixedoats.jpg[Mixture]
 image::forkcloseup.jpg[Granola Mixture Close Up]
-image::sesameseeds.jpg[Mixture with Sesame Seeds]
 
 +++<u>Baking Instructions</u>+++
 [square]
