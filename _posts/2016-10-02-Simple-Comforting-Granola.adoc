@@ -1,7 +1,7 @@
 = Simple Comforting Granola
 :hp-image: bowl.jpg
 
-:hp-tags: [vegan, granola, maple syrup, breakfast]
+:hp-tags: [vegan, oats, granola, maple syrup, breakfast]
 
 I've been making this granola recipe at home for over a year and I simply love it! It's easy, versatile, and can be used for various things: breakfast bowl, desert topping, cute homemade gift, what have you.
 
@@ -19,7 +19,7 @@ image::almondbutter.jpg[Granola Bowl]
 [square]
 . Set the oven to 175 C.
 . Place the oats in a large bowl, add brown sugar, and mix thoroughly with you hands.
-. In a small bowl, whisk together the oil and maple syrup. Once mixed, add immediately to the oats and sugar mixture. Stir until all the oat flakes are covered in oil, I used a fork.
+. In a small bowl, whisk together the oil and maple syrup. Once mixed, add immediately to the oats and sugar mixture. Stir until all the oat flakes are covered in the oil mixture. I used a fork to do this.
 . Add the seeds or nuts and stir until evenly combined.
 
 image::oats.jpg[Add Oats]
@@ -36,7 +36,7 @@ image::forkcloseup.jpg[Granola Mixture Close Up]
 . Take the oats out of the even and let cool.
 
 
-Once the oats have cooled add your favourite granola ingredients such as, coconut flakes, raisins, dried cranberries, apricots, #allthegranolathings! Personally, I like to keep it very simple so my daily recipes can be different all the time. I just add the ingredients I feel like having when I am preparing my meal.
+Once the oats have cooled you can add your favourite granola ingredients such as, coconut flakes, raisins, dried cranberries, apricots, #allthegranolathings! Personally, I like to keep it very simple so my daily recipes can be different depending on my mood. 
 
 Keep your granola in a jar or well sealed container and in dry place. You can store it for up to 3 weeks, but in our house of two, we usually consume it within 1.5 weeks. :)
 
