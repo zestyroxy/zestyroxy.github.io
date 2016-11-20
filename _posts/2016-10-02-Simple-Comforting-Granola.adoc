@@ -5,7 +5,7 @@
 
 I've been making this granola recipe at home for over a year and I simply love it! It's easy, versatile, and can be used for various things: breakfast bowl, desert topping, cute homemade gift, what have you.
 
-image::almondbutter.jpg[Granola Bowl]
+image::almondbutter.jpg#small[Granola Bowl]
 
 +++<u>Ingredients</u>+++
 [square]
@@ -22,9 +22,9 @@ image::almondbutter.jpg[Granola Bowl]
 . In a small bowl, whisk together the oil and maple syrup. Once mixed, add immediately to the oats and sugar mixture. Stir until all the oat flakes are covered in the oil mixture. I used a fork to do this.
 . Add the seeds or nuts and stir until evenly combined.
 
-image::oats.jpg[Add Oats]
-image::mixedoats.jpg[Mixture]
-image::forkcloseup.jpg[Granola Mixture Close Up]
+image::oats.jpg#small[Add Oats]
+image::mixedoats.jpg#small[Mixture]
+image::forkcloseup.jpg#small[Granola Mixture Close Up]
 
 +++<u>Baking Instructions</u>+++
 [square]
@@ -42,5 +42,5 @@ Keep your granola in a jar or well sealed container and in dry place. You can st
 
 This morning, I made a granola, almond butter, warm raspberry bowl with coconut milk yogurt and chia seeds.
 
-image::bowl.jpg[Granola Bowl]
-image::almondbutter.jpg[Granola Bowl]
+image::bowl.jpg#small[Granola Bowl]
+image::almondbutter.jpg#small[Granola Bowl]
