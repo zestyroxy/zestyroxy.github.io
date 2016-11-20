@@ -1,43 +1,77 @@
 = Eating Vegan at a Conference
-:hp-image: 
+:hp-image: milkbox.jpg
 
 :hp-tags: [vegan, how to, food, conference,]
 
-A few weeks ago, I attended one of the three annual conferences my company holds. This particular conference is hosted in Germany. This was my first conference after choosing to become vegan and I honestly, I was worried. Would I survive this trip as a vegan and what would I be surviving on.
+A few weeks ago, I attended one of the three annual conferences my company holds. This particular conference is hosted in Ludwigsburg, Germany, which is in the Baden-Württemberg - a place where meat is king! This was my first conference after choosing to become vegan and I honestly, I was worried. Would I survive this trip as a vegan and if so, what would I be surviving on.
 
-As I went through the experience, I thought it would be helpful to share a few tips! So here we go:
+image::ludwigsburg.jpg[Ludwigsburg, Germany]
 
-*Before the conference*
+While going through the experience, I thought it would be helpful to share a few tips with my fellow vegan friends! So here we go:
+
+===== Before the conference
+
 Don't wait until the last minute to start thinking about how you will survive on a plant-based diet at a conference. 
 
-+++<u>Registration:</u>+++
-When registering for the conference, keep your eyes peeled for a field about food preferences or special requests. If you didn't find such a field on the form, reach out to the organizers and ask if there will be a vegan option offered onsite. Any organizers worth their salt will reply!
+*Registration* - 
+When registering for the conference, keep your eyes peeled for a field about food preferences or special requests. If you didn't see such a field on the form, reach out to the organizers and ask if there will be a vegan option offered onsite. Any organizer worth its salt will reply!
 
-+++<u>Hotel:</u>+++
-Contact the hotel your will be staying at and ask about vegan options for breakfast, dinner and lunch. If they don't have option, plan time to shop when you get there.
+*Hotel* -
+Contact the hotel your will be staying at and ask about vegan options available at their hotel. If they don't have option, plan time to shop when you get there. 
+When I asked this time around they replied: "For dinner, simply ask your server and we will accomodate. You can eat rice bread, fruits and vegetables for breakfast. No, we don't have non-dairy milk."
 
-+++<u>Trip/Flights:</u>+++
-International flights offer vegan options. They aren't always tasty. For those who don't know, you +++<u>can</u>+++ bring food through security, but no liquids over 100 ml. I always bring protein and snacks in my carry-on and choose a fruit only meal o international flights. Fruits are light and tasty, full of vitamins and I don't feel gross when I land. This time around I departed from the Toronto airport and they had vegan options, but don't count on your airport having any options. 
+*Trip/Flights* -
+International flights offer vegan options. They aren't always tasty. For those who don't know, you +++<u>can</u>+++ bring food through security, but no liquids over 100 ml. I always bring snacks (protein and something sweet) in my carry-on. For the international flights, I choose a fruit only meal. Fruits are light and tasty, full of vitamins and I don't feel gross when I land. This time around I departed from the Toronto airport and they had vegan options, but don't count on your airport having any options. I had a tasty, yet dry vegan falafel sandwich. 
 
-*Onsite* Once you get there, get informed!
+image::falafel.png[Falafel Sandwich Toronto Airport]
+
+=====Onsite 
+Once you get there, get informed!
 
 +++<u>Hotel:</u>+++
 If they haven't replied to your inquiries, ask the front desk about vegan options when you check-in. When you get to your room, check if there is a mini fridge to store food later.
 
+
 +++<u>Shop</u>+++
-Hopefully, the conference centre will be located downtown or close to a grocery store or bio store. As soon you get 30 minutes to yourself, bolt to the store to stock up on snacks, nuts, bread, spreads, muesli/oats, chocolate (of course), fruits and veggies.
+Hopefully, the conference centre will be located downtown or close to a grocery store or bio store. As soon you get 30 minutes to yourself, bolt to the store to stock up on the necessities: nuts, bread, spreads, muesli/oats, chocolate (of course), fruits and veggies.
 
-If your hotel room has a mini-fridge, this is a huge bonus. Otherwise, not a problem. Get mini boxes of dairy milk and get to feel like a 5 year old again! 
+If your hotel room has a mini-fridge, this is a huge bonus. Otherwise, not a problem. Get mini boxes of non-dairy milk and get to feel like a 5 year old again!
 
-image::.jpg[]
+image::milkbox.jpg[Oatly Milk Box]
+Me with my Oatly milk box in the morning.
+
+image::ryebread.jpg[Rye Bread Open Faced Sandwich]
+Here was one of my afternoon snacks, since the conference didn't fufill my protein needs. I made myself an open-faced rye bread sandwich with kalamata olive spread and mixed seeds.
+
++++<u>Conference</u>+++
+
+If you're lucky the conference food will be tasty and will offer protein. In May 2016, I attended a conference in North Carolina and they always served a form of protein with vegetarian or vegan meals. Some of them we actually very tasty.
+
+Here are two of the meals I had at the conference in Germany:
+
+image::greens.jpg[Lunch]
+There were always many vegetable options, so I ate all of them!
+
+image::pumpkinsoup.jpg[]
+Since it was so close to Halloween and it was pumpkin season, they served this amazing pumpkin soup with pumpkin seeds! I had two servings. :)
 
 +++<u>Restaurants</u>+++
-Many restaurants now offer vegan options, but don't necessarily advertise it. Take the inivitative to research vegan friendly places so you can suggest them when making plans with clients or colleagues. They will appreaciate you organizing the dinner plans! If they already made arrangement, just call the restaurant to confirm that they have vegan options.
+Many restaurants now offer vegan options, but don't necessarily advertise it. Take the inivitative to research vegan friendly places so you can suggest them when making plans with clients or colleagues. There is no doubt about it, they will appreaciate you organizing the dinner plans! If they've already made arrangement, just call the restaurant to confirm that they have vegan options.
 
-A great website to research restaurants is happycow.net. They don't list restaurants that have only 1 vegan option, so you might want to want to do a Google as well "vegan restaurants in CITY".
+A great website to research restaurants is https://www.happycow.net/[happycow.net]. They don't usually list restaurants that have only one vegan option, so you might want to want to do a Google as well "vegan restaurants in [CITY NAME]".
 
 +++<u>Bar</u>+++:
-Did you know that some alchoholic beverages aren't vegan?! To be safe, look up your drink of choice on barnivore.com - it's a great resource!
+Did you know that some alchoholic beverages aren't vegan?! To be safe, look up your drink of choice on http://www.barnivore.com/[barnivore.com] - it's a great resource!
+
++++<u>Questions</u>+++
+This is a warning. You will get questions from non-vegans at the conference. Remember to stay calm and that you can always walk away from a conversation. If you want to be prepared you can look up a list of common questions on http://www.vegan.com/answers/[vegan.com]. 
+
++++<u>Don't be hard on yourself</u>+++
+Sometimes, you won't be able to confirm if a certain beverage or food is vegan and you do have to survive. Don't be so hard on yourself, especially when you're just starting your vegan journey. There is no judgement here :) Do your best! When all else fails, just remember that you will be home soon and you have all the amazing vegan food to look forward to! 
+
+image::smoothiebowl.PNG[Matcha Smoothie Bowl] 
+image::tofu.PNG[Tofu Scramble] 
+image::spinachpancakes.PNG[Spinach Chia Seed Pancakes]
 
 
 
