@@ -23,7 +23,7 @@ When I asked this time around they replied: "For dinner, simply ask your server 
 *Trip/Flights* -
 International flights offer vegan options. They aren't always tasty. You +++<u>can</u>+++ bring food through security, but no liquids over 100 ml. I always bring snacks (protein and something sweet) in my carry-on. For the international flights, I choose a fruit only meal. Fruits are light and tasty, full of vitamins and I don't feel gross when I land. This time around I departed from the Toronto airport and they had vegan options, but don't count on your airport having any options. I had a tasty, yet dry vegan falafel sandwich. 
 
-image::falafel.png[Falafel Sandwich Toronto Airport]
+image::falafel.png#small[Falafel Sandwich Toronto Airport]
 
 ===== Onsite 
 
@@ -38,10 +38,10 @@ Hopefully, the conference centre will be located downtown or close to a grocery 
 
 If your hotel room has a mini-fridge, this is a huge bonus. Otherwise, not a problem. Get mini boxes of non-dairy milk and get to feel like a 5 year old again!
 
-image::milkbox.jpg[Oatly Milk Box]
+image::milkbox.jpg#small[Oatly Milk Box]
 Me with my Oatly milk box in the morning.
 
-image::ryebread.jpg[Rye Bread Open Faced Sandwich]
+image::ryebread.jpg#small[Rye Bread Open Faced Sandwich]
 Here was one of my afternoon snacks, since the conference didn't fufill my protein needs. I made myself an open-faced rye bread sandwich with kalamata olive spread and mixed seeds.
 
 *Conference* -
@@ -49,10 +49,10 @@ If you're lucky the conference food will be tasty and will offer protein. In May
 
 Here are two of the meals I had at the conference in Germany:
 
-image::greens.jpg[Lunch]
+image::greens.jpg#small[Conference Lunch]
 There were always many vegetable options, so I ate all of them!
 
-image::pumpkinsoup.jpg[]
+image::pumpkinsoup.jpg#small[Vegan Pumpkin Soup]
 Since it was so close to Halloween and it was pumpkin season, they served this amazing pumpkin soup with pumpkin seeds! I had two servings. :)
 
 *Restaurants* -
@@ -72,6 +72,6 @@ Sometimes, you won't be able to confirm if a certain beverage or food is vegan a
 
 Some of the food I look forward to:
 
-image::smoothiebowl.PNG[Matcha Smoothie Bowl] 
-image::tofu.jpg[Tofu Scramble] 
-image::spinachpancakes.PNG[Spinach Chia Seed Pancakes]
+image::smoothiebowl.PNG#small[Matcha Smoothie Bowl] 
+image::tofu.jpg#small[Tofu Scramble] 
+image::spinachpancakes.PNG#small[Spinach Chia Seed Pancakes]
