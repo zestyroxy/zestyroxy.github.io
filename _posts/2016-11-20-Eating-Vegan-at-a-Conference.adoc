@@ -1,7 +1,7 @@
 = Eating Vegan at a Conference
 :hp-image: milkbox.jpg
 
-:hp-tags: [vegan, how to, food, conference,]
+:hp-tags: [vegan, how to, food, conference]
 
 A few weeks ago, I attended one of the three annual conferences my company holds. This particular conference is hosted in Ludwigsburg, Germany, which is in the Baden-Württemberg state - a place where meat is king! This was my first conference after choosing to become vegan and honestly, I was worried. Would I survive this trip as a vegan and if so, what would I be surviving on.
 
