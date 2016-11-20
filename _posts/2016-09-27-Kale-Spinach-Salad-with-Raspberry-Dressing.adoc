@@ -5,7 +5,7 @@
 
 It's dreary outside right now and we all need a boost of vitamin and a bit of freshness in our bowls. That's why I decided to make this bright salad today.
 
-image::salad_closeup2.jpg[Raspberry Dressing]
+image::salad_closeup2.jpg#small[Raspberry Dressing]
 
 *Raspberry Dressing*
 
@@ -23,7 +23,7 @@ image::salad_closeup2.jpg[Raspberry Dressing]
 . To start, you will want to thaw your raspberries about an hour in advance if you will be using frozen raspberries.
 . Put all the ingredients in a blender or food processor and mix until the consitency is smooth.
 
-image::raspberry_dressing.jpg[Raspberry Dressing]
+image::raspberry_dressing.jpg#small[Raspberry Dressing]
 
 +++<u>Note</u>+++: This makes a serving for one person if the meal will consist of a salad or two people if the salad is going to be a side dish.
 
@@ -50,8 +50,8 @@ image::raspberry_dressing.jpg[Raspberry Dressing]
 . Add the apple slices, spring onion rings, roasted pine nuts and raspberry dressing.
 . Add other ingredients that you fancy, like avocado!
 
-image::final_raspberry_salad.jpg[Raspberry Salad]
-image::salad_closeup.jpg[Raspberry Dressing]
+image::final_raspberry_salad.jpg#small[Raspberry Salad]
+image::salad_closeup.jpg#small[Raspberry Dressing]
 
 
 Your salad is ready to be devoured... daintily!
