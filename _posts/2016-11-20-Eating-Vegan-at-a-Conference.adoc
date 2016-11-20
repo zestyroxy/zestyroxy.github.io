@@ -5,7 +5,7 @@
 
 A few weeks ago, I attended one of the three annual conferences my company holds. This particular conference is hosted in Ludwigsburg, Germany, which is in the Baden-Württemberg state - a place where meat is king! This was my first conference after choosing to become vegan and honestly, I was worried. Would I survive this trip as a vegan and if so, what would I be surviving on.
 
-image::ludwigsburg.jpg[Ludwigsburg, Germany]
+image::ludwigsburg.jpg#small[Ludwigsburg, Germany]
 
 While going through the experience, I thought it would be helpful to share a few tips with my fellow vegans! So here we go:
 
