@@ -71,6 +71,7 @@ This is a warning. You will get questions from non-vegans at the conference. Rem
 Sometimes, you won't be able to confirm if a certain beverage or food is vegan and you do have to survive. Don't be so hard on yourself, especially when you're just starting your vegan journey. There is no judgement here :) Do your best! When all else fails, just remember that you will be home soon and you have all the amazing vegan food to look forward to! 
 
 Some of the food I look forward to:
+
 image::smoothiebowl.PNG[Matcha Smoothie Bowl] 
 image::tofu.jpg[Tofu Scramble] 
 image::spinachpancakes.PNG[Spinach Chia Seed Pancakes]
