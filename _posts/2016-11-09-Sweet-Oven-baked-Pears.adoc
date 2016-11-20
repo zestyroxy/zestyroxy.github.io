@@ -1,8 +1,33 @@
 = Sweet Oven-baked Pears
 :hp-image: 
 
-:hp-tags: [vegan, pears, maple syrup, dessert]
+:hp-tags: [vegan, pears, maple syrup, butter, dessert]
 
 I've been pretty busy with work, moving to Germany and conferences, but now I finally have time to blog about my food again! If you want to follow my day to day eating habits, you can do so on Instagram - just follow https://www.instagram.com/zestyroxy/[@ZestyRoxy].
 
 For this recipe I used Bosc Pears, they are our favourite every day pears, but they are also great for baking since they keep their shape and don't get all soggy. 
+
+
++++<u>Ingredients</u>+++
+[square]
+* 2 Bosc pears
+* maple syrup
+* 2 tbsp vegan butter
+* 1/4 lemon juice
+* 1/2 tsp nutmeg
+* 1/2 tsp cloves
+* 1 tsp cinnamon
+
++++<u>Instructions</u>+++
+[square]
+* Preheat your oven to 240 C.
+* Fill the bottom of your ceramic or glass baking dish with 0.5 cm of maple syrup. Add two tablespoons of butter and place the dish in the over to melt the butter.
+* Cut your pears in half. Cut off the stems and scoop out the hearts with a spoon.
+* Once the butter is melted, add the lemon juice and use a fork to combine the ingredients. 
+* Add spices to the maple syrup mixture and stir to combine well.
+* Place your pears face down into the dish and cover it with foil, the liquid will boil and splatter if you don't :) 
+* Bake for 20 minutes; flip halfway through. Once the 20 minutes are over, poke the largest pear with a fork, if it doesn't slide in easily, bake for another 5 minutes. Do this until they are ready.
+
++++<u>Presentation</u>+++
+
+image::#small[Vegan Baked Pears]
