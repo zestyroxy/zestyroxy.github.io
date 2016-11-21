@@ -72,11 +72,14 @@ Sometimes, you won't be able to confirm if a certain beverage or food is vegan a
 
 Some of the food I look forward to:
 
-image::smoothiebowl.PNG#small[Matcha Smoothie Bowl] 
 __Matcha Piña Colada Smoothie Bowl__
 
-image::tofu.jpg#small[Tofu Scramble] 
+image::smoothiebowl.PNG#small[Matcha Smoothie Bowl] 
+
 __Tofu Veggie Scramble__
 
-image::spinachpancakes.PNG#small[Spinach Chia Seed Pancakes]
+image::tofu.jpg#small[Tofu Scramble] 
+
 __Spinach Chia Seed Pancakes__
+
+image::spinachpancakes.PNG#small[Spinach Chia Seed Pancakes]
