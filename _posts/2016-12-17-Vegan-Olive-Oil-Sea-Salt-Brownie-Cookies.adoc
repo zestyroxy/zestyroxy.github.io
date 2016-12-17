@@ -3,7 +3,7 @@
 
 :hp-tags: [recipe, vegan, cookies, chocolate, olive oil, brownie, sea salt]
 
-Disclaimer - the original recipe for these cookies belongs to http://butterlustblog.com/2013/08/06/olive-oil-sea-salt-brownie-cookies/[Butterlust] Katie. They were my favourite cookies and so I slightly modified the recipe to make them vegan. Thank you for the wonderful recipe Katie! 
+Disclaimer - the original recipe for these cookies belong to http://butterlustblog.com/2013/08/06/olive-oil-sea-salt-brownie-cookies/[Butterlust] Katie. They were my favourite cookies and so I slightly modified the recipe to make them vegan. Thank you for the wonderful recipe Katie! 
 
 image::seasaltbrowniecookies.jpg#small[Sea Salt Cookie]
 
@@ -28,7 +28,7 @@ image::seasaltbrowniecookies.jpg#small[Sea Salt Cookie]
 - Add the egg replacer, mixing well until combined.
 - Add the cocoa powder, flour, and salt and beat until a dough forms - it should be the consistency of a thick brownie batter.
 - In a small bowl, dissolve the baking soda into the hot water. Add dissolved baking soda and vanilla and beat until well combined.
-batter with a spatula.
+- Fold the chocolate in the batter with a spatula.
 - Refrigerate the batter for at least 30 minutes, up to overnight.
 - When ready to bake, preheat oven to 350 degrees (176°C) and line baking sheets with parchment paper.
 - Once the oven is ready, take the batter out of the fridge and scoop out heaping tablespoons onto your prepared baking sheets and sprinkle with sea salt. It should yield 12 large cookies.
