@@ -2,7 +2,7 @@
 
 Disclaimer - the original recipe for these cookies belongs to http://butterlustblog.com/2013/08/06/olive-oil-sea-salt-brownie-cookies/[Butterlust] Katie. They were my favourite cookies and so I slightly modified the recipe to make them vegan. Thank you for the wonderful recipe Katie! 
 
-+++Ingredients+++
++++<u>Ingredients</u>+++
 [square]
 - 1/2 cup olive oil
 - 1 cup white sugar
@@ -15,7 +15,7 @@ Disclaimer - the original recipe for these cookies belongs to http://butterlustb
 - 1 tsp vanilla sugar
 - 150 g of vegan chocolate chopped or vegan chocolate chips - I used http://www.vivani-chocolate.de/P_Cooking_Chocolate_Rice_Choc.html[Vivani's Rice Choc Cooking Chocolate]
 
-+++Instructions+++
++++<u>Instructions</u>+++
 [square]
 - Do not start your oven yet - the batter needs to be refrigerated.
 - Prepare your egg replacer and let it sit.
