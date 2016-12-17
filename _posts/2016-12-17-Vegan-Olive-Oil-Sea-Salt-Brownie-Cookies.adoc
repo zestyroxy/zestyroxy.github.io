@@ -3,8 +3,9 @@
 
 :hp-tags: [recipe, vegan, cookies, chocolate, olive oil, brownie, sea salt]
 
-
 Disclaimer - the original recipe for these cookies belongs to http://butterlustblog.com/2013/08/06/olive-oil-sea-salt-brownie-cookies/[Butterlust] Katie. They were my favourite cookies and so I slightly modified the recipe to make them vegan. Thank you for the wonderful recipe Katie! 
+
+image::seasaltbrowniecookies.jpg#small[Sea Salt Cookie]
 
 +++<u>Ingredients</u>+++
 [square]
