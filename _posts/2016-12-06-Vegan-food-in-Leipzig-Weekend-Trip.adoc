@@ -1,5 +1,5 @@
 = Vegan food in Leipzig | Weekend Trip
-:hp-image: legosanta.jpg
+:hp-image: leipzig.jpg
 
 :hp-tags: [travel, leipzig, weihnachtsmarkt, germany, christmas market, restaurants, vegan]
 
@@ -12,7 +12,7 @@ We left Kiel in the early afternoon with a few vegan sandwiches we made at home 
 
 We spent the entire trainride working, which means we were tired when we got to the city. It was cold and all we wanted in that moment was to get to our Airbnb near the city centre and nap.
 
-image::presenttree.jpg[backyard art]
+image::presenttree.jpg#small[backyard art]
 
 The "plan" (we all know how plans work out ;)) was to eat at http://restaurant-greensoul.de/[Green Soul] located near our rental apartment. It looks like an amazing vegetarian/vegan restaurant! I had been dreaming of their walnut burger and crème brulée for weeks.
 
@@ -20,12 +20,12 @@ Unfortunately, we were too late to eat there that evening. We even tried orderin
 
 By 22:30 we made it to a sushi place we like called http://mrmoto.de/[Mr. Moto]. They have really tasty veggie california rolls. We were too hungry and forgot to ask if the veggie sushi was vegan (sometimes there is fish sauce in the rice). It was delicious.
 
-image::motosushi.jpg[Mr.Moto Sushi]
+image::motosushi.jpg#small[Mr.Moto Sushi]
 
 == Saturday
 Saturday morning, we had plans to visit the aformentioned Christmas Marketing with Stefan's family. Before meeting up with them, we stopped by http://www.goodies-berlin.de/kategorie/leipzig/[Goodies] and https://veganz.de/en/[Veganz] - all vegan shop and cantine. It was simply delicious. For breakfast we had this amazing egg salad bagel (made with chickpeas, spelt pasta with fresh herbs and tomato) and the "Get up and Goji" smoothie (made with fresh pineapples, strawberries, gojibeberries, banana, and orange juice). It was like a punch of freshness in the face. Definitely made me get up and go. 
 
-image::goodiesbagel.jpg[Goodies vegan egg salad bagel]
+image::goodiesbagel.jpg#small[Goodies vegan egg salad bagel]
 
 https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/11822584_393313290854297_6260908603392112078_n.jpg?oh=3924b743013ae83c67335dcf7221724e&oe=58C0965B[photo credit: Goodies Facebook]
 
@@ -33,9 +33,9 @@ Of course we also had coffee, a soy cappuccino and a peanut buttercup latte. My 
 
 For lunch we had Indian food, it wasn't great and is not worth describing :) Spent the rest of the day traipsing around the market. Our favourite treat is candied almonds - which are luckily vegan! They are served warm which is nice when it's so cold.
 
-image::christmasmarket.jpg[Chrismas Market Leipzig]
+image::christmasmarket.jpg#small[Chrismas Market Leipzig]
 
-image::legosanta.jpg[Christmas Market Lego Santa]
+image::legosanta.jpg#small[Christmas Market Lego Santa]
 
 
 For dinner, we had sushi at Mr. Moto once again and ordered more of the veggie california rolls!
@@ -44,14 +44,14 @@ For dinner, we had sushi at Mr. Moto once again and ordered more of the veggie c
 == Sunday
 On Sunday, we travelled to another part of the city, Lindenau, to have brunch at http://www.suesssalzig.de/[süß + salzig]. It did not disappoint! An amazing spread of vegan food layed out on two buffet tables. We stayed there for 3 hours, eating, relaxing, reading. It was wonderful. I only got a photo of the coffee - I was enjoying the food too much. They had different vegan spreads including nutella, kalamata olive, pumpkin, 'creton', butter, ... and more. We also stuffed our faces with cake, a tomato and seitan hedgehog, bread, sweet semolina porridge, cereal and mandarins. The buffet table can be viewed in the background of this images.
 
-image::sußalzig.jpg[Coffee süß + salzig]
+image::sußalzig.jpg#small[Coffee süß + salzig]
 
 Once we were satisfied, we went back to the city centre. Usually stores are closed on Sundays, but it was "city open day" that Sunday, which means that the Veganz store and Goodies restaurant were open! We walked around the city and visited a few local shops. Before hopping on the train, we stopped at Goodies for a coffee and purchased a vegan survival kit for the ride: a Chewybacca cookie (there was Chewy bobblehead next to the cookies), a brownie, and two bagels (egg salad and bbq chickpea). We were so full from the brunch we kept the brownie for the next day.
 
-image::goodiescoffee.jpg[Coffee Goodies]
+image::goodiescoffee.jpg#small[Coffee Goodies]
 Soy Latte @Goodies. I love the artwork on the paper cup!
 
-image::goodiesbrownie.png[Coffee Brownie] 
+image::goodiesbrownie.png#small[Coffee Brownie] 
 
 Brownie from Goodies
 
