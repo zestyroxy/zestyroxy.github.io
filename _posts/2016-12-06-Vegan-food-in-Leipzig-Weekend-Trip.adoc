@@ -5,7 +5,7 @@
 
 The first weekend of December, we travelled south to visit Leipzig - one of our favourite cities! We were very excited to explore the Weihnachtsmarkt (German Christmas Market) and the beautiful city once again. We haven't been there since we became vegan and were eager to discover vegan restaurants and stores in a different city.
 
-image::leipzig.jpg[Leipzig Germany]
+image::leipzig.jpg#small[Leipzig Germany]
 
 == Friday
 We left Kiel in the early afternoon with a few vegan sandwiches we made at home (walnut bread with salted butter, chia seed breads w/peanut butter & jelly and chia seed bread w/beet & horseradish spread) and a nougat ring for dessert! I also got my first Starbucks coffee in over half a year - Soy Latte because their Christmas drink syrup wasn't vegan. :(
