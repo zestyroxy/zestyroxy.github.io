@@ -1,30 +1,30 @@
-= Chocolate NiceCream & Chia Pudding Breakfast
+= Chocolate Nice Cream & Chia Pudding Breakfast
 :hp-image: chiabowl.jpg
 
 :hp-tags: [recipe, vegan, smoothie, smoothie bowl, peanut butter, chocolate, banana, nicecream, breakfast]
 
-I am obsessed with smoothie bowls as you can problably tell from my instagram feed :). At home, we make banana nicecream every other day. This turned out to be one of my favourite combinations and wanted to share it because it's so perfect for New Year's morning breakfast.
+I am obsessed with smoothie bowls and nice cream, as you can problably tell from my instagram feed :). At home, we make banana nice cream every other day; the flavours vary from peanut butter, to tropical fruit. This recipe turned out to be one of my favourite combinations and wanted to share it because it's so perfect for New Year's morning breakfast.
 
 image::newyeartable.jpg#small[New Year Breakfast]
 
-== NiceCream
+== Nice Cream
 
 +++<u> Ingredients</u>+++
 [square]
 - 3/4 cup soy or almond milk
 - 2 frozen bananas (freeze overnight)
-- 1-2 tbsp hemp hearts
+- 1 tbsp hemp hearts
 - 1/3 cup peanut butter
-- 1-2 tbsp cocao powder
+- 2 tbsp cocao powder
 
 +++<u>Instructions</u>+++
 [square]
 - Place all the ingredients in a high powered blender.
 - Blend until smooth - you may need to stop the blender and give it a bit of help with a spoon or a stir stick. If it is really stuck, add more milk, but only a bit at a time.
-- It should have a thick nicecream consistency.
-Note: If you prefer a more smoothie like consistency over the ice cream consistency, add more milk.
+- It should have a thick soft serve ice cream consistency.
+Note: If you prefer a more smoothie like consistency, simply add more milk.
 
-image::blender.png#small[Blender photo]
+image::blender.PNG#small[Blender photo]
 
 == Chia Seed Pudding
 +++<u>Ingredients</u>+++
@@ -35,17 +35,18 @@ image::blender.png#small[Blender photo]
 +++<u>Instructions</u>+++
 - Mix the ingredients together in each individual serving cup. 
 - Let it sit in the fridge overnight, stiring twice within the first few hours.
-- If the consistency is too thick in the morning, add a bit more milk and stir it.
+- In the morning, give it a stir; the consistency should be pudding like. If it's too thick, add a bit more milk and stir it until blended.
 
+image::chiabowl.jpg#small[Chia Seed Pudding]
 image::tray.jpg#small[Breakfast Coffee]
 
 
 == Presentation
 [square]
-- Chia seed pudding on the bottom - they should be ready in their individual service cups!
-- Scoop chocolate peanut butter nicecream on top
-- Cut ginger thin cookies in half and place them in the nicecream (I used the Pepparakaka ginger thins from Ikea, so tasty!)
-- Sprinkle your favourite muesli on top. (I used a vegan christmas mix we made and ordered pnline from mymuesli)
+- First layer will be the chia seed pudding. I prepare the pudding directly in the serving cups so there is no transfer needed, but you can make a big portion and spoon it into your serving cups later on.
+- Scoop chocolate peanut butter nice cream on top
+- Cut ginger thin cookies in half and place them in the nice cream so they stand on their own. (I used the Pepparakaka ginger thins from Ikea, so tasty!)
+- Sprinkle your favourite muesli, granola or oat mix on top. (I used a vegan christmas muesli mix we made and ordered pnline from Mymuesli.)
 
 image::gingerthinsikea.jpg#small[Ginger Thins Ikea Pepparakaka]
 image::chiabowl.jpg#small[Chia Bowl]
