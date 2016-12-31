@@ -3,7 +3,7 @@
 
 :hp-tags: [recipe, vegan, smoothie, smoothie bowl, peanut butter, chocolate, banana, nicecream, breakfast]
 
-I am obsessed with smoothie bowls and nice cream, as you can problably tell from my instagram feed :). At home, we make banana nice cream every other day; the flavours vary from peanut butter, to tropical fruit. This recipe turned out to be one of my favourite combinations and wanted to share it because it's so perfect for New Year's morning breakfast.
+I am obsessed with smoothie bowls and nice cream, as you can problably tell from my instagram feed :). At home, we make banana nice cream every other day; the flavours vary from peanut butter, to tropical fruit. This recipe turned out to be one of my favourite combinations and I wanted to share it because it's so perfect for New Year's morning breakfast.
 
 image::newyeartable.jpg#small[New Year Breakfast]
 
@@ -33,6 +33,7 @@ image::blender.PNG#small[Blender photo]
 - 6 tbsp of soy or almond per serving cup 
 
 +++<u>Instructions</u>+++
+
 - Mix the ingredients together in each individual serving cup. 
 - Let it sit in the fridge overnight, stiring twice within the first few hours.
 - In the morning, give it a stir; the consistency should be pudding like. If it's too thick, add a bit more milk and stir it until blended.
@@ -46,7 +47,7 @@ image::tray.jpg#small[Breakfast Coffee]
 - First layer will be the chia seed pudding. I prepare the pudding directly in the serving cups so there is no transfer needed, but you can make a big portion and spoon it into your serving cups later on.
 - Scoop chocolate peanut butter nice cream on top
 - Cut ginger thin cookies in half and place them in the nice cream so they stand on their own. (I used the Pepparakaka ginger thins from Ikea, so tasty!)
-- Sprinkle your favourite muesli, granola or oat mix on top. (I used a vegan christmas muesli mix we made and ordered pnline from Mymuesli.)
+- Sprinkle your favourite muesli, granola or oat mix on top. (I used a vegan christmas muesli mix we made and ordered online from Mymuesli.)
 
 image::gingerthinsikea.jpg#small[Ginger Thins Ikea Pepparakaka]
 image::chiabowl.jpg#small[Chia Bowl]
