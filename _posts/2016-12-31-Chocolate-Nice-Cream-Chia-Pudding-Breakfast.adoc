@@ -39,7 +39,7 @@ image::blender.PNG#small[Blender photo]
 - In the morning, give it a stir; the consistency should be pudding like. If it's too thick, add a bit more milk and stir it until blended.
 
 image::chiabowl.jpg#small[Chia Seed Pudding]
-image::tray.jpg#small[Breakfast Coffee]
+image::tray.png#small[Breakfast Coffee]
 
 
 == Presentation
