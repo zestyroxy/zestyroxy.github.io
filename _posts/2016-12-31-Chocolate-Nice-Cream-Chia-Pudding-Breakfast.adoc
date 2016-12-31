@@ -35,7 +35,7 @@ image::blender.PNG#small[Blender photo]
 +++<u>Instructions</u>+++
 
 - Mix the ingredients together in each individual serving cup. 
-- Let it sit in the fridge overnight, stiring twice within the first few hours.
+- Let it sit in the fridge overnight, stirring twice within the first few hours.
 - In the morning, give it a stir; the consistency should be pudding like. If it's too thick, add a bit more milk and stir it until blended.
 
 image::chiabowl.jpg#small[Chia Seed Pudding]
