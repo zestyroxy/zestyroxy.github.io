@@ -1,7 +1,7 @@
 = Pumpkin Smoothie Jar
 :hp-image: final_shot_sm.jpg
 
-:hp-tags: [vegan, pumpkin, smoothie, fall, breakfast]
+:hp-tags: [recipe, vegan, pumpkin, smoothie, fall, breakfast]
 
 Since fall (my favourite season) is here I decided to bake three different pumpkin recipies! Here is the first one: Pumpkin Smoothie Jar. #PumpkinAllTheThings
 
