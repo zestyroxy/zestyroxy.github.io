@@ -1,7 +1,7 @@
 = Going Vegan!
 :hp-image: zestyroxy_sm.jpg
 
-:hp-tags: [vegan, vegepreferian, vegetarian]
+:hp-tags: [vegan, vegepreferian, vegetarian, vlog, youtube]
 
 My name is Roxanne Joncas. I am Canadian living in Kiel, Germany. For the past two years, I have been a vegepreferian that indulges in minimalism. I have decided to make my lifestyle a more sensible, mindful, and conscious one. That is why I have decided to become vegan. I will be posting my journey on my https://www.youtube.com/channel/UC3u3YZ35NU1Zl3zxRH3d7OA[YouTube Channel].
 
