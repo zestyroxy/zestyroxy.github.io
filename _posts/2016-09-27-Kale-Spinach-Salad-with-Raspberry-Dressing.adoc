@@ -1,7 +1,7 @@
 = Kale & Spinach Salad with Raspberry Dressing
 :hp-image: salad_closeup2.jpg
 
-:hp-tags: [vegan, salad, kale, spinach, raspberry]
+:hp-tags: [recipe, vegan, salad, kale, spinach, raspberry]
 
 It's dreary outside right now and we all need a boost of vitamin and a bit of freshness in our bowls. That's why I decided to make this bright salad today.
 
