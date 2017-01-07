@@ -1,7 +1,7 @@
 = Simple Comforting Granola
 :hp-image: bowl.jpg
 
-:hp-tags: [vegan, oats, granola, maple syrup, breakfast]
+:hp-tags: [recipe, vegan, oats, granola, maple syrup, breakfast]
 
 I've been making this granola recipe at home for over a year and I simply love it! It's easy, versatile, and can be used for various things: breakfast bowl, desert topping, cute homemade gift, what have you.
 
