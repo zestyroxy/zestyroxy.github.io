@@ -76,5 +76,5 @@ Pizza Bande Foodporn
 image::rawlikesushi.jpg#small[Vegan Raw Like Sushi Hamburg]
 Raw Like Sushi - Vegan Sushi!
 
-image::luneberg.PNG#small[Wedding Table Luneberg Kiel]
+image::luneberg.jpg#small[Wedding Table Luneberg Kiel]
 Wedding Reception at Luneberg in Kiel
