@@ -1,7 +1,7 @@
 = Roasted Cauliflower Soup
 :hp-image: souptop.jpg
 
-:hp-tags: [recipe, vegan, soup, cauliflower, onion, coconut milk, croutons]
+:hp-tags: [recipe, vegan, soup, cauliflower, onion, garlic, coconut milk, croutons]
 
 image::souptop.jpg#small[Roasted Cauliflower Soup Top]
 
