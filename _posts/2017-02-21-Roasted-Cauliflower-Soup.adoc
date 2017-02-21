@@ -1,9 +1,9 @@
 = Roasted Cauliflower Soup
-:hp-image: .jpg
+:hp-image: souptop.jpg
 
 :hp-tags: [recipe, vegan, soup, cauliflower, onion, coconut milk, croutons]
 
-image::#small[]
+image::souptop.jpg#small[Roasted Cauliflower Soup Top]
 
 
 +++<u>Ingredients</u>+++
@@ -44,5 +44,7 @@ image::#small[]
 - Top off with crispy onions pieces and green garnish of choice, I used field salad.
 
 
-image::#small[]
+image::souptopclose.jpg#small[Close up - Cauliflower Soup Top]
 
+
+image::cauliflowersoup.jpg#small[Lunch Cauliflower Soup]
